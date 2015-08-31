@@ -1,0 +1,19 @@
+{
+  "name": "ibm-mfp-core",
+  "version": "0.0.1",
+  "description": "MFPCore cordova plugin",
+  "cordova": {
+    "id": "ibm-mfp-core",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Sergio Escotos",
+  "license": "ISC"
+}
